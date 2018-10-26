@@ -28,11 +28,6 @@ use the address: http://127.0.0.1:8000/
 - 自己已经学习Python一年了，最近对于Python相关开始进行一个较全面复习。
 - 希望可以帮到那些对于Python，对Django有兴趣的同学少走弯路。
 
-[项目线上演示地址](http://mxonline.mtianyan.cn)
-[原版视频课程地址:](https://coding.imooc.com/learn/list/78.html)
-
->一次性的一个完整项目代码很难被学习，所以我采用commit记录源码快照 + 阶段性教程结合的形式。类似关卡式学习概念。
-
 - 每节教程前面会写明对应的上节commit：开始某一节教程的前置条件。
 - 每节教程后面会写明对应的已结束commit: 方便本节出错参考。
 
@@ -48,23 +43,3 @@ use the address: http://127.0.0.1:8000/
 #### 6. web系统知识以及网络安全
 #### 7. xadmin扩展知识
 
-## About me
-[简书](https://www.jianshu.com/u/db9a7a0daa1f) && [mtianyan's blog](http://blog.mtianyan.cn/)
-
-有趣的Python群：619417153
-
-欢迎关注简书，star项目！谢谢！
-
-你的关注支持是我继续分享前进的动力。
-
-## 求打赏鼓励
-
-很高兴我写的文章（或我的项目代码）对你有帮助，请我吃包辣条吧！
-
-微信打赏:
-
-![mark](http://myphoto.mtianyan.cn/blog/180302/i52eHgilfD.png?imageslim)
-
-支付宝打赏:
-
-![mark](http://myphoto.mtianyan.cn/blog/180302/gDlBGemI60.jpg?imageslim)
