@@ -96,18 +96,28 @@ WSGI_APPLICATION = 'Mxonline2.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/1.9/ref/settings/#databases
 
+#DATABASES = {
+#   'default': {
+#        'ENGINE': 'django.db.backends.mysql',
+#        'NAME': 'mxonline2',
+##        'USER': 'root',
+#        'PASSWORD': 'tp158917',
+#        'HOST':'127.0.0.1',
+#
+#    },
+
+#}
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'mxonline2',
-        'USER': 'root',
-        'PASSWORD': 'tp158917',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
         'HOST':'127.0.0.1',
 
     },
 
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/1.9/ref/settings/#auth-password-validators
